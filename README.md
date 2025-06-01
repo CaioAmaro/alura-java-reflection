@@ -18,5 +18,3 @@ Este projeto foi realizado com fins **educacionais**, com foco no aprendizado da
 - Maven
 - IDE IntelliJ IDEA
 - API de Reflection do Java
-
-## 📂 Estrutura do Projeto
